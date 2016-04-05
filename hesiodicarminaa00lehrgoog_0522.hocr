@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hesiodicarminaa00lehrgoog_0522.png"; bbox 0 0 3564 5640; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 1689 1420 2026">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 1689 1420 2026">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1689 1420 2026; baseline 0.007 -127"><span class='ocrx_word' id='word_1_1' title='bbox 235 1689 1351 1908; x_wconf 74' lang='grc' dir='ltr'><strong>ΤΡΥΦΙΟΔΩΡΟΥ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1417 2021 1420 2026; x_wconf 4' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 442 2096 1169 2226">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 442 2096 1169 2226">
+     <span class='ocr_line' id='line_1_2' title="bbox 442 2096 1169 2226; baseline 0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 442 2096 713 2224; x_wconf 87' lang='grc' dir='ltr'>ΙΛΙΟΥ</span> <span class='ocrx_word' id='word_1_4' title='bbox 785 2096 1169 2226; x_wconf 86' lang='grc' dir='ltr'><strong>ΑΛΩΣΙΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 702 2436 912 2469">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 702 2436 912 2469">
+     <span class='ocr_line' id='line_1_3' title="bbox 702 2436 912 2469; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 702 2436 912 2469; x_wconf 48' lang='lat'><strong>⁴0*-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 257 2748 1355 3096">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 257 2748 1355 3096">
+     <span class='ocr_line' id='line_1_4' title="bbox 257 2748 1355 3096; baseline -0.001 -131"><span class='ocrx_word' id='word_1_6' title='bbox 257 2748 1355 3096; x_wconf 65' lang='lat' dir='ltr'>TRYPHIODORI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 494 3164 1102 3284">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 494 3164 1102 3284">
+     <span class='ocr_line' id='line_1_5' title="bbox 494 3164 1102 3284; baseline -0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 494 3169 645 3284; x_wconf 84' lang='lat' dir='ltr'>ILII</span> <span class='ocrx_word' id='word_1_8' title='bbox 682 3164 1102 3284; x_wconf 87' lang='lat' dir='ltr'><strong>EXCIDIUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1786 5640">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1786 5640">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1786 5640; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1786 5640; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
